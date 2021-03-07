@@ -1,6 +1,7 @@
-# logseq-clean-themes
-Forked version by @whatfrancisco
-- Changed to green color in the light theme to blue
+# Logseq Minimalist Theme
+Forked from PiotrSss/logseq-clean-theme
 
-TODO:
-- Change the dark theme assets aswell 
+---
+### TODO
+- Light theme
+  - Changed the green pallet to a blue pallet.
