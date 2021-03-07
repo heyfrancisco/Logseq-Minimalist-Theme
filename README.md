@@ -1,4 +1,4 @@
-# logseq-clean-themes
+# Logseq Minimalist Theme
 Forked from PiotrSss/logseq-clean-theme
 
 ---
